@@ -1,4 +1,4 @@
-////
+////                                                                                                                                                                                                                         
      Licensed to the Apache Software Foundation (ASF) under one
      or more contributor license agreements.  See the NOTICE file
      distributed with this work for additional information
@@ -35,7 +35,7 @@
 
 // Add cards as you see fit below. Try not to repeat consecutive colors.
 
-[.card.blue]
+[.card.blue]          
 .icon:edit[] Fast & Smart Editing
 Apache NetBeans is much more than a text editor. It highlights source code xref:tutorial::kb/docs/java/editor-codereference.adoc[syntactically and semantically], lets you easily xref:tutorial::kb/docs/java/editor-inspect-transform.adoc[refactor code], with a range of handy and powerful tools.
 
